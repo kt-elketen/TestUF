@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.lang.*;
-
+// testing git push
 public class SciCalculator
 {
 
